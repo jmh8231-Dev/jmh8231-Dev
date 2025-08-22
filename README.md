@@ -1,4 +1,4 @@
-### 👩💻 About Me!</br>
+### 💻 About Me!</br>
 ### 기록으로 표현하는 연구원, 정명훈입니다.</br>
 
 ## 🧚‍♀️Introduce
