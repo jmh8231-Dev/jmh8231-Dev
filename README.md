@@ -11,22 +11,59 @@
  - 모든 면에서 **효율적으로 처리**할 수 있는 방법을 추구합니다.</br>
 
 ## 💌contact
- - **Email |** 
- - **Blog |** 
- - **GitHub |**
+ - **Email |** jmh8231@naver.com
+ - **Blog |** https://blog.naver.com/jmh8231
+ - **GitHub |** https://github.com/jmh8231-Dev
  <br></br>
  
-## 🛠Tech Stack
-**Backend**</br>
-<img  src="https://img.shields.io/badge/Java-FF3E00?style=flat&logo=Java&logoColor=white"/> <img  src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<br></br>
-**Frontend**</br>
-<img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img  src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> <img  src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-<br></br>
-**DevOps&Tool**</br>
-<img  src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img  src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/> <img  src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black"/> <img  src="https://img.shields.io/badge/eGovFramework-00AFF0?style=flat&logo=eGovFramework&logoColor=white"/> <img  src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=SpringFramework&logoColor=white"/>
-<br></br>
-**Collaboration**</br>
-<img  src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img  src="https://img.shields.io/badge/SVN-FF791A?style=flat&logo=SVN&logoColor=white"/>
-<br></br>
-<br></br>
+## 🛠 Tech Stack
+
+### EDA
+<p>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-111111?style=flat&logo=altiumdesigner&logoColor=white"/>
+</p>
+
+### IDEs
+<p>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+</p>
+
+### Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-0091EA?style=flat&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yocto%20Project-024EA2?style=flat&logo=yoctoproject&logoColor=white"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/SquareLine%20Studio-1B1F23?style=flat&logo=lvgl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RPA%20Lite-FF3E00?style=flat"/>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat&logo=autocad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-673AB7?style=flat&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitis-EE0000?style=flat&logo=xilinx&logoColor=white"/>
+</p>
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog%20HDL-8A2BE2?style=flat&logo=ieee&logoColor=white"/>
+</p>
+
+
+
+
+
