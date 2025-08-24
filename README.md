@@ -21,6 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-111111?style=flat&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OrCAD-CC0000?style=flat&logo=cadence&logoColor=white"/>
 </p>
 
 ### IDEs
