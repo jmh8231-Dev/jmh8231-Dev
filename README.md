@@ -1,7 +1,7 @@
-### 💻 About Me!</br>
+### About Me!</br>
 ### 기록으로 표현하는 연구원, 정명훈입니다.</br>
 
-## 🧚‍♀️Introduce
+## Introduce
  - 안녕하세요 학부 연구원 **정명훈**입니다.</br>
  - 결과도 중요하지만, 과정에서 얻는 깨달음도 중요하다고 생각합니다.</br>
  - **소통**하면서 서로 정보를 공유하면서 **함께하는 것**을 좋아합니다.</br>
@@ -9,13 +9,13 @@
  - 사용자의 **편리함을 추구**하는 것에 관심이 많습니다.</br>
  - 모든 면에서 **효율적으로 처리**할 수 있는 방법을 추구합니다.</br>
 
-## 💌contact
+## contact
  - **Email |** jmh8231@naver.com
  - **Blog |** https://blog.naver.com/jmh8231
  - **GitHub |** https://github.com/jmh8231-Dev
  <br></br>
  
-## 🛠 Tech Stack
+## Tech Stack
 
 ### EDA
 <p>
